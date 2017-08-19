@@ -12,4 +12,7 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: VGA8x8.h
-Description: 
+Description: 8x8 pixel VGA font
+
+
+
